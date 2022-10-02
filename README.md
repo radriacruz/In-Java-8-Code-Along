@@ -1,1 +1,2 @@
-# This repository includes the code along examples from the book In Java 8 by Bruce Eckel 
+# In Java 8 code along
+This repository includes some code samples from the In Java 8 book by Bruce Eckel
